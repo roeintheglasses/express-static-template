@@ -1,0 +1,22 @@
+{
+  "name": "express-static-template",
+  "version": "1.0.0",
+  "description": "Basic ExpressJS based template for static websites.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roeintheglasses/express-static-template.git"
+  },
+  "author": "Hrishi Jangir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roeintheglasses/express-static-template/issues"
+  },
+  "homepage": "https://github.com/roeintheglasses/express-static-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
